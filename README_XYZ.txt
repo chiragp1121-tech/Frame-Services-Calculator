@@ -1,0 +1,2 @@
+Run with: streamlit run stream_app_formula_hover_fixed.py
+Upload the workbook, enter Planned and Actual inputs, submit once to see Planned vs Actual. Click More details to reveal the detailed tables, then use the download button and chat below.
